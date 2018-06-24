@@ -1,0 +1,11 @@
+{
+  "name": "pincode-with-react",
+  "version": "1.0.0",
+  "description": "Pincode Searching Website using Express and React",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SRJ",
+  "license": "ISC"
+}
